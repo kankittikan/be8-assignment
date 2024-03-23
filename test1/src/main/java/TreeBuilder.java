@@ -8,7 +8,7 @@ public class TreeBuilder {
 
         StringBuilder stringBuilder = new StringBuilder();
 
-        //leave
+        //leaf
         int whiteSpace = (n - 2) * 2;
         int star = 1;
         for (int i = 1; i < n; i++) {
